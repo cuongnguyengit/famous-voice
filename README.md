@@ -97,7 +97,7 @@ The purpose of this DATASET is DATA for Speaker Recognition Problem.
 ## Citations
 If you find the DATASET useful for your research, please consider citing our works
 ``` 
-@article{nsganet,
+@article{voicenet,
   title={VIET NAM VOICE DATASET},
   author={Nguyễn Trường Lâu - Student at University of Information Technology (UIT)},
   booktitle={VIETNAMVOICE},
