@@ -9,7 +9,7 @@ This is the audio data set of 40 famous Vietnamese voices
 > Nguyễn Trường Lâu - Student at University of Information Technology (UIT)
 >
 
-![overview](https://github.com/nguyentruonglau/Famous-Voice/image/data.png  "VIET NAM VOICE DATASET")
+![overview](https://github.com/nguyentruonglau/Famous-Voice/blob/main/image/data.png  "VIET NAM VOICE DATASET")
 
 ## Over View
 
