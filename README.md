@@ -7,6 +7,7 @@ This is the audio data set of 40 famous Vietnamese voices
 
 >
 > Nguyễn Trường Lâu - Student at University of Information Technology (UIT)
+> Bùi Đức Cường - Student at University of Information Technology (UIT)
 >
 
 ![overview](https://github.com/nguyentruonglau/Famous-Voice/blob/main/image/data.png  "VIET NAM VOICE DATASET")
