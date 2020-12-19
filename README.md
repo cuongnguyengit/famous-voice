@@ -1,7 +1,7 @@
 ﻿# VIET NAM FAMOUS VOICE DATASET
 
 
-# vietnam-voice [![CircleCI](https://circleci.com/gh/faustomorales/keras-ocr.svg?style=shield)](https://www.facebook.com/100028270149365/videos/583039165981750/) [![Documentation Status](https://readthedocs.org/projects/keras-ocr/badge/?version=latest)](https://www.facebook.com/100028270149365/videos/583039165981750/)
+# vietnam-voice [![CircleCI](https://circleci.com/gh/faustomorales/keras-ocr.svg?style=shield)](https://drive.google.com/drive/folders/124PpcD2IHhZgbsfbi8u5cF-iOfcVYyG4?usp=sharing) [![Documentation Status](https://readthedocs.org/projects/keras-ocr/badge/?version=latest)](https://drive.google.com/drive/folders/124PpcD2IHhZgbsfbi8u5cF-iOfcVYyG4?usp=sharing)
 
 This is the audio data set of 40 famous Vietnamese voices
 
