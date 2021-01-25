@@ -17,8 +17,8 @@ This is the audio data set of 40 famous Vietnamese voices
 
 ``` 
 - Dataset include: 
-  + 50 audio files / artist, singer, vlogger
-  + 4s / file 
+  + 100 audio files / artist, singer, vlogger
+  + 2s / file 
 - Data has been cleaned: noise filtering, sound reinforcement 
 - Standardized data: 
   + Sample rate: 44100Hz 
