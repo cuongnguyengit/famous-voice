@@ -3,7 +3,7 @@
 
 # vietnam-voice [![CircleCI](https://circleci.com/gh/faustomorales/keras-ocr.svg?style=shield)](https://github.com/nguyentruonglau) [![Documentation Status](https://readthedocs.org/projects/keras-ocr/badge/?version=latest)](https://github.com/nguyentruonglau)
 
-This is the audio data set of 40 famous Vietnamese voices
+This is the audio data set of [40 famous Vietnamese voices](https://drive.google.com/drive/folders/124PpcD2IHhZgbsfbi8u5cF-iOfcVYyG4?usp=sharing)
 
 >
 > Nguyễn Trường Lâu - Student at University of Information Technology (UIT)
