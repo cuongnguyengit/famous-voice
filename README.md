@@ -1,7 +1,7 @@
 ﻿# VIET NAM FAMOUS VOICE DATASET
 
 
-# vietnam-voice [![CircleCI](https://circleci.com/gh/faustomorales/keras-ocr.svg?style=shield)](https://github.com/nguyentruonglau) [![Documentation Status](https://readthedocs.org/projects/keras-ocr/badge/?version=latest)](https://github.com/nguyentruonglau)
+# vietnam-voice [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/) [![Documentation Status](https://readthedocs.org/projects/keras-ocr/badge/?version=latest)](https://github.com/nguyentruonglau)
 
 This is the audio data set of [40 famous Vietnamese voices](https://drive.google.com/drive/folders/124PpcD2IHhZgbsfbi8u5cF-iOfcVYyG4?usp=sharing)
 
